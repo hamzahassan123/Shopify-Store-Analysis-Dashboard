@@ -7,6 +7,20 @@ This repository contains a comprehensive analysis of a Shopify store, showcasing
 
 ---
 
+## **Business Problem**
+The Shopify store had the following challenges:
+- No centralized view of performance metrics like revenue, orders, and customer trends.
+- Difficulty in identifying top-selling products, underperforming categories, and customer lifetime value.
+- Lack of clarity on campaign effectiveness, leading to inefficient marketing spending.
+- Operational bottlenecks, including order fulfillment delays and high shipping costs, were impacting profitability.
+
+## **Business Goals**
+- Track and improve overall revenue performance.
+- Identify key drivers of sales, including products, categories, and promotions.
+- Understand customer demographics and behavior to improve marketing strategies.
+- Optimize operational metrics like shipping cost and delivery times.
+
+---
 ## **Dashboard Features**
 The dashboard focuses on the following metrics:
 - **Revenue Insights**: Analyze total revenue, profit, and order trends.
