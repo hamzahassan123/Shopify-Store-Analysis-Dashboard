@@ -80,16 +80,16 @@ The dashboard focuses on the following metrics:
 
 ## **Screenshots**
 ### **Dashboard Pages:**
-![Dashboard Page 1](![Summery]https://github.com/user-attachments/assets/c8d2ba02-4b36-45c7-8138-17824824f695
+![Dashboard Page 1](![Summery](https://github.com/user-attachments/assets/c8d2ba02-4b36-45c7-8138-17824824f695)
 
 
-![Dashboard Page 2](![customer insight]https://github.com/user-attachments/assets/76f2fe8d-daa5-4eb7-bd5e-345b5ace45d0
+![Dashboard Page 2](![customer insight](https://github.com/user-attachments/assets/76f2fe8d-daa5-4eb7-bd5e-345b5ace45d0)
 
 
-![Dashboard Page 3](![Product Insight]https://github.com/user-attachments/assets/04dd145b-a349-4cf0-a4f1-692ab3b9ead8
+![Dashboard Page 3](![Product Insight](https://github.com/user-attachments/assets/04dd145b-a349-4cf0-a4f1-692ab3b9ead8)
 
 
-![Dashboard Page 4](![Promotions Insight]https://github.com/user-attachments/assets/897f1ba4-f744-4779-9ad9-8e185756df09
+![Dashboard Page 4](![Promotions Insight](https://github.com/user-attachments/assets/897f1ba4-f744-4779-9ad9-8e185756df09)
 
 ---
 
