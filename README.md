@@ -3,6 +3,8 @@
 ## **Overview**
 This repository contains a comprehensive analysis of a Shopify store, showcasing key metrics, insights, and recommendations to optimize business operations. The analysis was visualized using a Power BI dashboard and is structured across four pages to provide detailed insights into revenue, product performance, customer behavior, and promotional strategies.
 
+![Summery](https://github.com/user-attachments/assets/c2018872-ba73-46b5-a9a1-b83f98e1e9c8)
+
 ---
 
 ## **Dashboard Features**
@@ -64,11 +66,14 @@ The dashboard focuses on the following metrics:
 
 ## **Screenshots**
 ### **Dashboard Pages:**
-![Dashboard Page 1](link-to-image-page1)
-![Dashboard Page 2](link-to-image-page2)
-![Dashboard Page 3](link-to-image-page3)
-![Dashboard Page 4](link-to-image-page4)
+![Dashboard Page 1](![Summery](https://github.com/user-attachments/assets/c8d2ba02-4b36-45c7-8138-17824824f695)
+
+![Dashboard Page 2](![customer insight](https://github.com/user-attachments/assets/76f2fe8d-daa5-4eb7-bd5e-345b5ace45d0))
+
+![Dashboard Page 3](![Product Insight](https://github.com/user-attachments/assets/04dd145b-a349-4cf0-a4f1-692ab3b9ead8))
+
+![Dashboard Page 4](![Promotions Insight](https://github.com/user-attachments/assets/897f1ba4-f744-4779-9ad9-8e185756df09))
 
 ---
 
-## **File Structure**
+
