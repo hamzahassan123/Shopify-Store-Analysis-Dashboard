@@ -36,7 +36,7 @@ The dashboard focuses on the following metrics:
 - **Shopping Behavior:** Evening shopping is most popular (37%), followed by afternoon (31%).
 
 #### **Promotion Insights:**
-- Seasonal promotions contributed the highest revenue (41%).
+- Clearence sales contributed the highest revenue (41%).
 - Campaign discounts of 20–30% were the most effective in driving sales.
 - Email marketing was the most successful channel, generating 47.1% of total revenue.
 
